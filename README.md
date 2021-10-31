@@ -14,7 +14,10 @@ Below are some screenshots of the program and code: <div>
 > - Python - 3.9.7
 > - Tkinter
 > - Visual Studio Code ( Microsoft ) 
-  
+
+## Prerequisites:
+> - Python version 3.9.7 or higher installed.
+> - An editor or IDE that can run code, or use the terminal with : py main.py ( Make sure you enter the file path first. )
  ## Alert 
 > ❗ This is my first GUI code, it may not be 100% functional. You can download and modify it at will. <div>
   If you want to use it as a quick base, just copy and paste it.
