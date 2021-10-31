@@ -6,7 +6,7 @@
 This is a code base to make a mini login window, feel free to reuse it or modify it to your liking. <div>
 All code is subdivided with comments and in accordance with PEP 8. The icon for the window is with the code, just put it in your favorite IDE ( No copyright ).
   
-Below are some screenshots of the program and code: <div>
+Below is a screenshot of the program and code: <div>
 ![image](https://user-images.githubusercontent.com/90472141/139562144-fbaa5b88-097c-407d-861c-c9fe9431c7f8.png)
   
   
