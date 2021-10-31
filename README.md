@@ -7,4 +7,18 @@ This is a code base to make a mini login window, feel free to reuse it or modify
 All code is subdivided with comments and in accordance with PEP 8. The icon for the window is with the code, just put it in your favorite IDE ( No copyright ).
   
 Below are some screenshots of the program and code: <div>
-![image](https://user-images.githubusercontent.com/90472141/139561968-354bdcc4-d212-471c-963e-a07a30cea284.png)
+![image](https://user-images.githubusercontent.com/90472141/139562144-fbaa5b88-097c-407d-861c-c9fe9431c7f8.png)
+  
+  
+## Technologies used:
+> - Python - 3.9.7
+> - Tkinter
+> - Visual Studio Code ( Microsoft ) 
+  
+ ## Alert 
+> ❗ This is my first GUI code, it may not be 100% functional. You can download and modify it at will. <div>
+  If you want to use it as a quick base, just copy and paste it.
+
+
+#### Sincerely - Kamaso.
+
