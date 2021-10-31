@@ -1,7 +1,8 @@
-# Login-Tkinter
-# Welcome! This is my first GUI application.
+<h1 align="center">Login Tkinter</h1>
+<h1 align="center">Welcome! This is my first GUI application.</h1>
 
 > - State : Finished ✔️
+
 
 This is a code base to make a mini login window, feel free to reuse it or modify it to your liking. <div>
 All code is subdivided with comments and in accordance with PEP 8. The icon for the window is with the code, just put it in your favorite IDE ( No copyright ).
